@@ -1,0 +1,16 @@
+<select>
+	<option value=",color=Silver">Ash Grey</option> 
+	<option value=",color=DarkGreen">Wittek Green</option> 
+	<option value=",color=Red">Red Baron</option> 
+	<option value=",color=MediumBlue" selected>Blue Streak</option> 
+	<option value=",color=PapayaWhip">Surrie Beige</option>
+	<option value=",color=DarkGray">Pedestal Gray</option> 
+	<option value=",color=ForestGreen">Fern Green</option> 
+	<option value=",color=Brown">Fence Brown</option> 
+	<option value=",color=DarkGreen">Evergreen</option> 
+	<option value=",color=GhostWhite">Evenflo White</option> 
+	<option value=",color=DarkGreen">Eastern Green</option>
+	<option value=",color=Black">Dow Black</option>
+	<option value=",color=RoyalBlue">Dutch Blue</option>
+	<option value=",color=BlanchedAlmond">Almond</option>
+</select>

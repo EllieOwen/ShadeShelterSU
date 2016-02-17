@@ -1,0 +1,12 @@
+
+			<?php foreach($source as $key => $value) {
+				if ($value['b']>=5 AND $value['tnom']>=0.187){?>
+					<option value="<?php echo
+					"AISC_Manual_Label=".$value['AISC_Manual_Label'].
+					",b=".$value['b'].
+					",Ht=".$value['Ht'].
+					",tnom=".$value['tnom'].
+					",W=".$value['W']?>">
+					<?php echo $value['AISC_Manual_Label'] ?>
+					</option>
+				<?php } }?>
